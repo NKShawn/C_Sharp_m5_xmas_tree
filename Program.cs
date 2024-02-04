@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pp_42_module_5_homework_xmas_tree
+namespace pp_36_module_5_homework_xmas_tree
 {
     internal class Program
     {
