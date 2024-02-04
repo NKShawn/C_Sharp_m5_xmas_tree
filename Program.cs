@@ -12,7 +12,7 @@ namespace pp_36_module_5_homework_xmas_tree
         {
             Console.WriteLine("pp_36_module_5_homework_xmas_tree");
             Console.WriteLine(  );
-            //此homework 也使用[主控台應用程式(.NET Framework)]專案
+            //此homework 使用[主控台應用程式(.NET Framework)]專案
             /*
              todo #0 請印出如下
 
